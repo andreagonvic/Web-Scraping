@@ -36,3 +36,6 @@ Para poder ejecutar el programa que extrae la información deseada es necesario 
   PATH = "C:\Program Files (x86)\chromedriver.exe"
   ```
   
+  
+## License
+See the LICENSE file for license rights and limitations (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License).
