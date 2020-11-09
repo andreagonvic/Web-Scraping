@@ -1,4 +1,4 @@
-# Práctica 1: Web scraping: Acciones más activas de España.
+# Práctica 1: Web scraping: Acciones más activas de España y su histórico desde Enero 2019.
 
 ## Descripción
 Este repositiorio ha sido creado para realizar la Práctica 1 de la asignatura _"Tipología y ciclo de vida de los datos"_ del Máster en Ciencia de Datos de la _Universitat Oberta de Catalunya (UOC)_.
