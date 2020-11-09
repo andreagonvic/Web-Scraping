@@ -38,8 +38,6 @@ Para poder ejecutar el programa que extrae la información deseada es necesario 
   
   
 ## License
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">BigWigs Classic-WoW</span> 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">
 
-See the [LICENSE](LICENSE.md) file for license rights and limitations (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License).
-
-
+See the [LICENSE](LICENSE.md) file for license rights and limitations (<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>).
