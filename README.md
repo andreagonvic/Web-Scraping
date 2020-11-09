@@ -16,7 +16,7 @@ En este repositorio encontramos:
 * Este archivo de texto *README* en el que se explica la estructura general de la entrega.
 * Un archivo de texto *LICENSE* que describe la licencia escogida.
 * Un archivo de lectura *WebScraping_SP_stocks Aim and description.pdf* que desarolla los objetivos y preguntas requeridos por el profesor.
-* Un archivo *script_web_scraping.ipynb* con el código de ejecucion del scrapeo web.
+* Un archivo *script_web_scraping.ipynb* con el código de ejecución del scrapeo web.
 
 ## Prerrequisitos 
 Para poder ejecutar el programa que extrae la información deseada es necesario hacer ciertas instalaciones antes.
