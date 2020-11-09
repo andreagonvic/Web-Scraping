@@ -38,4 +38,4 @@ Para poder ejecutar el programa que extrae la información deseada es necesario 
   
   
 ## License
-See the [LICENSE] (LICENSE.md) file for license rights and limitations (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License).
+See the [LICENSE](LICENSE.md) file for license rights and limitations (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License).
