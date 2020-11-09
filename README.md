@@ -9,6 +9,14 @@ Este script recoge los datos de las acciones de las cincuenta empresas más acti
 ## Miembros del equipo
 La actividad ha sido realizada por *María Dolores Higuera González* y *Andrea González Vicario*.
 
+## Explicación de ficheros
+En este repositorio encontramos:
+
+* Este archivo de texto *README* en el que se explica la estructura general de la entrega.
+* Una carpeta *Files* que contiene la colección de archivos .csv generados.
+* Un archivo *script_web_scraping.ipynb* con el código de ejecucion del scrapeo web.
+* Un archivo de texto *LICENSE* que describe la licencia escogida.
+
 ## Prerrequisitos 
 Para poder ejecutar el programa que extrae la información deseada es necesario hacer ciertas instalaciones antes.
 
